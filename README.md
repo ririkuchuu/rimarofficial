@@ -1,3 +1,3 @@
 ## Course Project for Fundamentals of Computing
 
-All contents of this websitr are strictly for submission purposes only.
+All contents of this website are strictly for submission purposes only.
